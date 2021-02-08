@@ -362,7 +362,7 @@ var b = (a = 3) ? true: false
 - The condition in the ternary is using the assignment operator.
 
 ----------------------------------------------------------
-#### Q39. For the following class, how do you geet value of 42 from `x`?
+#### Q39. For the following class, how do you get value of 42 from `x`?
 
 ```javascript
 
